@@ -1,0 +1,2 @@
+# NLP
+nlp projelerine giriş 
